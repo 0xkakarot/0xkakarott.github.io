@@ -164,7 +164,7 @@
 			return fwkPtc;
 		}
 
-		document.addEventListener("load", newFireWorkOnClick);
+		document.addEventListener("click", newFireWorkOnClick);
 
 		function newFireWorkOnClick(event)
 		{
@@ -206,7 +206,7 @@
 		}
 
 		var before = Date.now();
-		var id = setInterval(frame, 5);
+		var id = setInterval(frame, 10);
 		
 		function frame()
 		{
