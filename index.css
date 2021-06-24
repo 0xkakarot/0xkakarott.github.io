@@ -37,6 +37,10 @@ a {
     	color: #888888
 }
 
+#lb{
+	color: #e5eaf5
+}
+
 @keyframes change {
     	0%  { color:  #0f0; }
     	50% { color:  #0f0; }
