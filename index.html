@@ -253,6 +253,19 @@
 				}
 			}
 		}
-	</script>
+
+</script>
+			
+ <script language ="javascript" >
+        var tmp;
+        function f1() {
+            tmp = setTimeout("callitrept()", 2000);
+        }
+        function callitrept() {
+            document.getElementById("lb").click();
+        }
+    </script>
+</head>
+<body onload="f1()">			
         
 </html>
