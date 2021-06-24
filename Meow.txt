@@ -1,0 +1,20 @@
+<span id="a">[Kakarot@meow]</span>:<span id="b">~</span><span id="c">$</span> cd Kakarot/About_Me
+<span id="a">[Kakarot@meow]</span>:<span id="b">~</span><span id="c">$</span> cat Meow.txt<br/><br/>
+My favorite quote, "<span id="k">If you’re good at something, never do it for free.</span>". 
+
+<p>My name is "<span id="k">Rifat Al Jubaer</span>" and I am a self-learner and passionate of Hacking. I love to make and break things.(And I am paid for that) 😉</p> 
+<p> <mark class="blue">Education</mark>: I am a college student.
+I enjoy studying programming languages, In fact, anything related to the software development field attracts me.<br>
+<mark class="blue">Career Experience</mark>: I am having experience in Web Application Security, Mobile Application Security, API Security,Vulnerability Assessment and Penetration Testing <br>
+
+<a onclick="window.open('https://github.com/kakarotmeow?tab=repositories', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">
+<span style="cursor:pointer">>My Normalized Resume<</span></a>
+<a onclick="window.open('https://github.com/kakarotmeow?tab=repositories', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">
+<span style="cursor:pointer">>My Real Projects<</span></a>
+<a onclick="window.open('https://kakarotmeow.github.io/', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">
+<span style="cursor:pointer">>My Awesome Blog<</span></a> </br>
+<a href="https://kakarotmeow@gmail.com">>Email Me<</a> </br>
+
+And in the end one PRO Tip <a onclick="window.open('https://monoskop.org/images/8/85/Wark_McKenzie_A_Hacker_Manifesto.pdf', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');"><span style="cursor:pointer">>Read The Hacker Manifesto<</span></a>
+<p>Cheers!</p>
+<img src="ProfilePic-removebg-preview.pngg" style="width: 200px" align="right" /> <br /> 
