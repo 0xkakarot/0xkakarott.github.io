@@ -1,11 +1,10 @@
 <span id="a">[Kakarot@meow]</span>:<span id="b">~</span><span id="lb">$</span> cd Birthday_Girl
 <span id="a">[Kakarot@meow]</span>:<span id="b">~</span><span id="lb">$</span> cat Meow.txt<br/><br/>
-Hi love, <span id="k">I think I should change your name to “Asthma” because you are great at constantly taking my breath away! 😓
-
+Hi love, <span id="k">
  </span> 
 
 
 <span id="lb"> – .....  </span>
 
 Click the Birthday to see something! 
-<img src="ProfilePic-removebg-preview.png" style="width: 190px" align="right" /> <br /> 
+<img src="ProfilePic-removebg-prvw.png" style="width: 190px" align="right" /> <br /> 
